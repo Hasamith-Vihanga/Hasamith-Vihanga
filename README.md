@@ -1,13 +1,19 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
 <h1 align="center">Hi 👋, I'm Hasamith Vihanga</h1>
-<h3 align="center">A passionate Software Engineer undergraduate at university of westminster from Sri Lanka</h3>
+<h3 align="center">A passionate Software Engineer undergraduate at university of westminster (via IIT) from Sri Lanka</h3>
+
+<p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width = 1000px></p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasamith-vihanga&label=Profile%20views&color=0e75b6&style=flat" alt="hasamith-vihanga" /> </p>
 
 - 📫 How to reach me **hasamithvihanga500@gmail.com**
 
 - ⚡ Fun fact **Interested about cricket**
+
+- 🌱 Lives in Galle, Sri Lanka
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
